@@ -1,0 +1,45 @@
+nav	{
+	position: fixed;	
+	height: 50px;
+	background: grey;
+	width: 100%;
+}
+
+nav ul{
+	display: inline-block;
+	text-align: right;
+	color: purple;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+nav .li {
+	display: inline-block;
+}
+
+a: hover {
+	color: green;
+}
+
+.box	{
+	height: 20px;
+	border: 1px solid black;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.first-box, .third-box {
+	width: 50px;
+
+}
+.second-box {
+	width: 100px;
+	}
+ul, li {
+	list-style: none;
+}
+
+
+
