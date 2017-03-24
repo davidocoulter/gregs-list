@@ -14,11 +14,11 @@ nav ul{
 	top: 0;
 }
 
-nav .li {
+nav li {
 	display: inline-block;
 }
 
-a: hover {
+a:hover {
 	color: green;
 }
 
